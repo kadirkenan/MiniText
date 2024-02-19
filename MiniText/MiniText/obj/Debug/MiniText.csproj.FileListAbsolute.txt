@@ -1,0 +1,7 @@
+C:\Users\msbuy\source\repos\MiniText\MiniText\bin\Debug\MiniText.exe.config
+C:\Users\msbuy\source\repos\MiniText\MiniText\bin\Debug\MiniText.exe
+C:\Users\msbuy\source\repos\MiniText\MiniText\bin\Debug\MiniText.pdb
+C:\Users\msbuy\source\repos\MiniText\MiniText\obj\Debug\MiniText.csproj.AssemblyReference.cache
+C:\Users\msbuy\source\repos\MiniText\MiniText\obj\Debug\MiniText.csproj.CoreCompileInputs.cache
+C:\Users\msbuy\source\repos\MiniText\MiniText\obj\Debug\MiniText.exe
+C:\Users\msbuy\source\repos\MiniText\MiniText\obj\Debug\MiniText.pdb
